@@ -48,7 +48,6 @@ https://github.com/ModuDevCore/PathweaveUIX-Unity.git
 
 **Option C — .unitypackage**
 Download the latest release and import the `.unitypackage` into Unity.
-flatpak install flathub com.icons8.Lunacy
 ---
 
 ## 2. How to get started
