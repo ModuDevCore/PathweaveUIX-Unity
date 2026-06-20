@@ -1,13 +1,20 @@
 {
   "name": "com.modudevcore.pathweaveuix",
   "version": "1.0.1",
-  "displayName": "PathweaveUIX",
+  "displayName": "Pathweave UIX",
   "description": "PathweaveUIX is a UI navigation management system for Unity that works like a router between interface pages. It handles switching UI screens, instantiating them from prefabs, and playing transition animations.",
   "unity": "2022.3",
   "author": {
     "name": "ModuDevCore",
     "url": "https://github.com/ModuDevCore"
   },
+  "keywords": [
+    "ui",
+    "events",
+    "navigation",
+    "uix"
+  ],
+  "dependencies": {},
   "files": [
     "Components/**",
     "Data/**",
@@ -17,4 +24,5 @@
     "*.cs",
     "*.meta"
   ],
+  "samples": []
 }
