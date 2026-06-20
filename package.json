@@ -9,15 +9,9 @@
     "url": "https://github.com/ModuDevCore"
   },
   "files": [
-      "Core/**",
+      "Components/**",
+      "Data/**",
       "Editor/**",
-      "Extensions/**",
-      "Attributes/**",
-      "Internal/**",
-      "Plugins/**",
-      "DBExtensionBase.cs",
-      "ElysiumDB.asmdef",
-      "Editor/ElysiumDB.Editor.asmdef",
       "*.cs",
       "*.meta",
       "package.json"
